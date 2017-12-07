@@ -1,0 +1,20 @@
+\documentclass{report}
+
+\usepackage{xcolor}
+\usepackage{listings}
+\usepackage{caption}
+\DeclareCaptionFont{white}{\color{white}}
+\DeclareCaptionFormat{listing}{%
+  \parbox{\textwidth}{\colorbox{gray}{\parbox{\textwidth}{#1#2#3}}\vskip-4pt}}
+\captionsetup[lstlisting]{format=listing,labelfont=white,textfont=white}
+\lstset{frame=lrb,xleftmargin=\fboxsep,xrightmargin=-\fboxsep}
+
+\begin{document}
+\belowcaptionskip=-10pt
+\begin{lstlisting}[label=some-code,caption=Some Code]
+public void here() {
+    goes().the().code()
+}
+\end{lstlisting}
+
+\end{document}
