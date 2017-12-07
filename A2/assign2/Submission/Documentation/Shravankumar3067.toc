@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Problem 1}{1}
+\contentsline {subsection}{\numberline {1.1}Perceptron Algorithm:}{1}
+\contentsline {section}{\numberline {2}Problem 2}{4}
+\contentsline {subsection}{\numberline {2.1}breast-cancer-wisconsin}{5}
+\contentsline {subsection}{\numberline {2.2}ionosphere}{5}
+\contentsline {section}{\numberline {3}Problem 3}{7}
+\contentsline {subsection}{\numberline {3.1}Least Squares Method}{7}
+\contentsline {subsection}{\numberline {3.2}Fisher's LDA}{8}
+\contentsline {section}{\numberline {4}Problem 4}{9}
+\contentsline {subsection}{\numberline {4.1}Relation between Least Squares and Fisher's linear discriminant}{9}
